@@ -82,7 +82,7 @@ nav .right-nav{
     }
     nav .left-nav {
         display: flex;
-        z-index: 3;
+        z-index: 3; 
     }
     nav .left-nav p{
         left: -3rem;
